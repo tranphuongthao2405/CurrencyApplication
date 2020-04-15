@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string-array name="array1">
+        <item>Euro</item>
+        <item>VND</item>
+        <item>Yen</item>
+        <item>Baht</item>
+        <item>Dollar</item>
+    </string-array>
+
+    <string-array name="array2">
+        <item>Dollar</item>
+        <item>Euro</item>
+        <item>VND</item>
+        <item>Yen</item>
+        <item>Baht</item>
+    </string-array>
+</resources>
